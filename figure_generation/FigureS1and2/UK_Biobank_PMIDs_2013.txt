@@ -1,0 +1,21 @@
+Number of publications with "UK Biobank" in Title and/or Abstract from PubMed: 12
+
+Number of publications listed on UK Biobank website: 5
+
+Number of flagged publications: 1
+
+Number of publications found on PubMed but not on the UK Biobank website (initial pass, and excluding flagged publications): 8
+
+Total number of unique publications: 12
+25538617
+23604069
+23958225
+23990935
+24360142
+23714095
+25503070
+25229622
+24336895
+24057481
+24336235
+24282498

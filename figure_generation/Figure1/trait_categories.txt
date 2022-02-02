@@ -1,0 +1,26 @@
+Trait	Category
+Height	Anthropometric
+BMI	Anthropometric
+DBP	Blood pressure
+SBP	Blood pressure
+Hemoglobin	Hematological
+Hematocrit	Hematological
+MCHC	Hematological
+MCH	Hematological
+MCV	Hematological
+PLC	Hematological
+Lymphocyte	Hematological
+Monocyte	Hematological
+Neutrophil	Hematological
+Eosinophil	Hematological
+Basophil	Hematological
+WBC	Hematological
+RBC	Hematological
+Triglyceride	Metabolic
+Cholesterol	Metabolic
+LDL	Metabolic
+HDL	Metabolic
+HBA1C	Metabolic
+Urate	Kidney
+EGFR	Kidney
+CRP	Other biochemical

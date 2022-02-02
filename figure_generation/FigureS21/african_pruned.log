@@ -1,0 +1,23 @@
+PLINK v1.90b6.2 64-bit (12 Jun 2018)
+Options in effect:
+  --bfile african_pruned
+  --out african_pruned
+  --recode structure
+
+Hostname: login004
+Working directory: /gpfs/data/sramacha/ukbiobank_jun17/ssmith/ongoing/redefining_replication/2.a.admixture
+Start time: Thu May 28 12:57:29 2020
+
+Random number seed: 1590685049
+128745 MB RAM detected; reserving 64372 MB for main workspace.
+163655 variants loaded from .bim file.
+8643 people (3628 males, 5015 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 8643 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999981.
+163655 variants and 8643 people pass filters and QC.
+Note: No phenotypes present.
+--recode structure to african_pruned.recode.strct_in ... done.
+
+End time: Thu May 28 12:58:02 2020
